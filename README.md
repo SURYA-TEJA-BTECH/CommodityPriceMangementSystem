@@ -3,33 +3,41 @@
 # CommodityPriceMangementSystem
 
 
-![image](https://github.com/user-attachments/assets/1b55431f-c65e-4675-830a-3394dfe3b41b)
+![Screenshot 2025-02-03 183050](https://github.com/user-attachments/assets/1c60f403-436d-4ca0-8948-314cef035366)
 
-![image](https://github.com/user-attachments/assets/667fc800-1ea4-46bd-ac78-c563472f3e55)
-
-![image](https://github.com/user-attachments/assets/b4fc7f7c-3972-4d08-9190-d77d9b88b295)
+![Screenshot 2025-02-03 183125](https://github.com/user-attachments/assets/08223b8b-c544-4f50-83f5-d955eff452ae)
 
 
-![image](https://github.com/user-attachments/assets/be17a8f7-c02f-41c0-8cb3-528bacaacc7a)
+![Screenshot 2025-02-03 183207](https://github.com/user-attachments/assets/5c96c3c2-9b1d-4946-b012-d798f715d53f)
 
 
+![Screenshot 2025-02-03 183252](https://github.com/user-attachments/assets/cb3d4af1-d4d2-405b-b06a-b444b834c28c)
 
-![image](https://github.com/user-attachments/assets/c74085d8-134b-4465-8b4b-6ee9debe7e67)
 
-
-![image](https://github.com/user-attachments/assets/88be734a-c6bd-42b2-9b62-f7e5363a9029)
+![Screenshot 2025-02-03 183716](https://github.com/user-attachments/assets/c0da748f-2a5a-40c2-afeb-10a98b7df442)
 
 
 
-![image](https://github.com/user-attachments/assets/444e791b-7482-4fc2-b363-809c16c4fc67)
+![Screenshot 2025-02-03 183803](https://github.com/user-attachments/assets/212ab90d-fd79-4643-a864-d419d9b1bb19)
 
 
 
-![image](https://github.com/user-attachments/assets/6304b78a-bebf-4f00-b6a4-8fde7fe20f6e)
+![Screenshot 2025-02-03 183832](https://github.com/user-attachments/assets/c4317dd1-aa05-4c04-a8a2-481b3c639215)
 
 
 
-![image](https://github.com/user-attachments/assets/fd6c0172-5224-41a4-aacc-0ca5facafea8)
+![Screenshot 2025-02-03 183852](https://github.com/user-attachments/assets/7b0ef93e-c9c6-4491-9981-2eef782097e1)
+
+
+![Screenshot 2025-02-03 184109](https://github.com/user-attachments/assets/f864e3a6-a321-46ac-9589-cd728f267714)
+
+
+
+
+
+
+
+
 
 
 
